@@ -1,0 +1,2 @@
+Vaatefailides galerii.html ja vote.html on HTML-i, mis iga pildi kohta kordub. Muuta neid html faile nii, et iga pildi HTML genereeritakse PHP abil (nt foreach tsüklis). Piltide infot sisaldav massiiv kirjeldatakse veidi hiljem.
+

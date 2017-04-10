@@ -2,7 +2,7 @@
 
 <div id="wrap">
 	<h3>Vali oma lemmik :)</h3>
-	<form action="tulemus.html" method="GET">
+	<form action="tulemus.php" method="GET">
 		<p>
 			<label for="p1">
 				<img src="pildid/nameless1.jpg" alt="nimetu 1" height="100" />
