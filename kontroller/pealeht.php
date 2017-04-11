@@ -1,4 +1,3 @@
-<?php require_once('head.html')?>
 
 <div id="wrap">
 	<h3>Minu galerii</h3>
@@ -7,4 +6,4 @@
 
 </div>
 
-<?php require_once('foot.html')?>
+
